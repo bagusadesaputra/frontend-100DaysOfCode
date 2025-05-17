@@ -13,6 +13,5 @@ I also post daily updates on [Twitter](https://x.com/bagusadee_s) 📢
 
 | Day | Topic | Link |
 |-----|-------|------|
-| 1   | HTML Basics | [Day01_HTML_Basics](./Day01_HTML_Basics) |
-| 2   | CSS Introduction | [Day02_CSS_Intro](./Day02_CSS_Intro) |
+| 1   | HTML Basics | |
 | …   | …     | …    |
