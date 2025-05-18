@@ -5,8 +5,6 @@ I'm following the [WPU 2024 Front-End Roadmap](https://roadmap.sh/r/jalur-belaja
 
 I’ll be learning HTML, CSS, JavaScript, Git, and more!
 
-I also post daily updates on [Twitter](https://x.com/bagusadee_s) 📢
-
 ---
 
 ## 📅 Daily Progress Log
