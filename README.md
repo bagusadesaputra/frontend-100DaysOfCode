@@ -11,5 +11,5 @@ I’ll be learning HTML, CSS, JavaScript, Git, and more!
 
 | Day | Topic | Link |
 |-----|-------|------|
-| 1   | HTML Basics (hello worlds!) | …    |
-| 2   | HTML Basics (tags) | …    |
+| 1   | HTML Basics (hello worlds!) | https://github.com/bagusadesaputra/frontend-100DaysOfCode/tree/main/DAY01_HTML_BASICS |
+| 2   | HTML Basics (tags) | https://github.com/bagusadesaputra/frontend-100DaysOfCode/tree/main/DAY02_HTML_BASICS |
