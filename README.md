@@ -11,5 +11,5 @@ I’ll be learning HTML, CSS, JavaScript, Git, and more!
 
 | Day | Topic | Link |
 |-----|-------|------|
-| 1   | HTML Basics | |
-| …   | …     | …    |
+| 1   | HTML Basics (hello worlds!) | …    |
+| 2   | HTML Basics (tags) | …    |
